@@ -1,3 +1,2 @@
 mixin Store {
-  void dispose() {}
 }
